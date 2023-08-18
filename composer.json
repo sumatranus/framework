@@ -1,0 +1,23 @@
+{
+    "name": "sumatranus/framework",
+    "description": "The Sumatranus Framework",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "keywords": [
+        "framework"
+    ],
+    "support": {
+        "source": "https://github.com/sumatranus/framework"
+    },
+    "authors": [
+        {
+            "name": "Saullo Bretas Silva",
+            "email": "saullo.silva55@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": "^8.1"
+    }
+}
